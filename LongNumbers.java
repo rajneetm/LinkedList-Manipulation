@@ -27,6 +27,9 @@ import java.util.Scanner;
  *  ==  equal
  *  <>  not equal 
  * </pre>
+ *
+ * prewritten main class
+ * @author Joanna K
  */
 
 public class LongNumbers {
